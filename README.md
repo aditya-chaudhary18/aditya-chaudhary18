@@ -5,7 +5,7 @@
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://github.com/aditya-chaudhary18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Crafting+Intelligent+RAG+%26+Multi-Agent+Systems+🤖;Building+Multilingual+Voice+AI+Assistants+🎙️;Full-Stack+AI+Plumbing%3A+FastAPI%2C+React+%26+pgvector+⚡;Turning+Complex+AI+Concepts+into+Shippable+Code+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Crafting+Intelligent+RAG+%26+Multi-Agent+Systems;Building+Multilingual+Voice+AI+Assistants;Full-Stack+Engineering%3A+FastAPI%2C+React+%26+Docker;Turning+Complex+AI+Concepts+into+Shippable+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -172,18 +172,21 @@ open_to_collaborate: Open-source AI tools, hackathon projects, and innovative st
 
 <!-- GitHub Readme Streak Stats (Animated) -->
 <a href="https://github.com/aditya-chaudhary18">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-chaudhary18&theme=tokyonight&hide_border=true&border_radius=10&background=0b1120&ring=22d3ee&fire=38bdf8&currStreakNum=ffffff" alt="GitHub Streak" width="95%"/>
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-chaudhary18&theme=tokyonight&hide_border=true&border_radius=10&background=0b1120&ring=22d3ee&fire=38bdf8&currStreakNum=ffffff" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- Stats and Top Languages -->
-<a href="https://github.com/aditya-chaudhary18">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-chaudhary18&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&background=0b1120&title_color=22d3ee&icon_color=38bdf8&text_color=94a3b8" alt="Aditya's GitHub Stats" width="48%"/>
-</a>
-<a href="https://github.com/aditya-chaudhary18">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chaudhary18&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&background=0b1120&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" width="48%"/>
-</a>
+<!-- Stats and Top Languages (Aligned side-by-side with matching height) -->
+<p align="center">
+  <a href="https://github.com/aditya-chaudhary18">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=aditya-chaudhary18&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&background=0b1120&title_color=22d3ee&icon_color=38bdf8&text_color=94a3b8" alt="Aditya's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aditya-chaudhary18">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chaudhary18&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&background=0b1120&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" />
+  </a>
+</p>
 
 </div>
 
